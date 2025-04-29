@@ -25,4 +25,4 @@ I investigate how the emergence of stablecoins and stablecoin-issuing fintechs r
 
 
 ### 🤝 Connect with me 🤝
-[Email](usalyha@gmail.com) | [LinkedIn](http://www.linkedin.com/in/serjin-kim-b899b4274)
+[Email](usalyha@gmail.com) | [School Email](usalyha@snu.ac.kr) | [LinkedIn](http://www.linkedin.com/in/serjin-kim-b899b4274)
