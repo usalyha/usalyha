@@ -9,8 +9,6 @@
 - 🎓 Student @ Seoul National University
 - 📚 Strong foundation in Economics, Finance, and Econometrics
 - 🤖 Currently learning Machine Learning and AI agent modeling
-- 🛠️ Researching at-the-market (ATM) offerings using OpenAI API for data collection
-- 🔎 Interested in the intersection of financial innovation and emerging AI technologies
 
 ---
 
