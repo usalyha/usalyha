@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there
+### I'm Serjin Kim 
 
-<!--
-**usalyha/usalyha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I’m passionate about how non-traditional financial institutions and mechanisms shape financial environments, and how AI can redefine traditional economics and finance theories — such as through calibration using AI agent models.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐿️ About Me 🐿️
+- 🎓 Student @ Seoul National University
+- 📚 Strong foundation in Economics, Finance, and Econometrics
+- 🤖 Currently learning Machine Learning and AI agent modeling
+- 🛠️ Researching at-the-market (ATM) offerings using OpenAI API for data collection
+- 🔎 Interested in the intersection of financial innovation and emerging AI technologies
+
+---
+
+### 📚 Research Highlights 📚
+
+**At-the-Market (ATM) Offerings**  
+I study the role of at-the-market (ATM) offerings as a distinct corporate financing strategy. Leveraging a novel data collection method using the OpenAI API, I systematically extract ATM issuance data from public filings.  
+My findings show that firms primarily use ATMs to address immediate liquidity needs, treating them as flexible substitutes for cash reserves. Compared to seasoned equity offerings (SEOs), ATMs generate more muted market reactions, offering firms an efficient, low-impact financing option.
+
+**Stablecoins, Fintechs, and Macroeconomic Equilibrium**  
+I investigate how the emergence of stablecoins and stablecoin-issuing fintechs reshape macroeconomic equilibrium dynamics. Using a Lagos-Wright (New Monetarist) framework, I model the interactions between traditional financial institutions and decentralized digital money issuers, examining implications for liquidity provision, monetary policy effectiveness, and financial stability.
+
+
+### 🤝 Connect with me 🤝
+[Email](usalyha@gmail.com) | [LinkedIn](http://www.linkedin.com/in/serjin-kim-b899b4274)
